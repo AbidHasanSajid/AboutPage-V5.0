@@ -1,10 +1,5 @@
 # About Page Portfolio Website Template
-
-Here is the [Website Template](abidhasansajid.me) link you can use completely for free.
-
 [![](https://i.imgur.com/FtKWFCq.png)](http://abidhasansajid.me)
-
-
 
 **Make Websites With Fully Integrated Info**
 We are sick of having notifications, messages, and information everywhere which is why Slides app takes care that all the info you need is well integrated. That means you can chat, discuss, show, collect emails and polls, provide directions and more. This awesome collection of integrations will expand your selling capabilities.
