@@ -24,4 +24,4 @@ This repo is perfect for those who are willing to design outstanding websites as
 If you find this repo useful, please share it with your friends or mention us on your website. Use the templates for personal or commercial projects, but don't sell them!
 
 **Credits**
-Developed by [ABID HASAN SAJID](https://abidhasansajid.me).
+Developed by [ABIDHASANSAJID](https://abidhasansajid.me).
